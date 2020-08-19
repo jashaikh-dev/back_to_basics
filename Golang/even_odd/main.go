@@ -10,3 +10,5 @@ func main() {
 		fmt.Println(num, "is odd")
 	}
 }
+
+// `> go run main.go` to execute the above code
